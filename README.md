@@ -32,7 +32,7 @@ A **single-file**, feature-rich text editor built with Python's Tkinter.
 Run the editor with:
 
 ```bash
-python3 text_editor.py
+python3 textEditor.py
 ```
 
 ### Shortcuts
@@ -49,11 +49,6 @@ python3 text_editor.py
 | Find & Replace | Ctrl + F         |
 | Toggle Theme   | — (menu option)  |
 
-## Screenshots
-
-![Light Theme](https://via.placeholder.com/800x400?text=Light+Theme)
-
-![Dark Theme](https://via.placeholder.com/800x400?text=Dark+Theme)
 
 ## Contributing
 
